@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(95, 178, 247);
+#happy{width: 15%;}
+    #happy{float:left; padding: 10px;}
+
+}
+
+#moto{width: 100%;}
+.foto{
+    background:#CCCCCC;
+}
+
+h1{
+    text-align: center;background-color: chartreuse;
+    font-size: 70px;
+    
+}
+
+#servicios{text-align: center;background-color: chartreuse;
+
+}
+.titulo{
+    background-color: chartreuse;
+}
+
+em strong{background-color: chartreuse;
+
+}
+
+#mision{font-size: 19px;
+}
+#espero{
+    color: rgb(4, 0, 255);
+}
+.items{
+    font-style: italic;
+}
